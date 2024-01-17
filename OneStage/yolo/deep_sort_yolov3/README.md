@@ -98,9 +98,6 @@ __5. Can change [deep_sort_yolov3/yolo.py] `__Line 100__` to your tracking objec
     doi={10.1109/WACV.2018.00087}
     }
     
-## Reference
-#### Github:deep_sort@[Nicolai Wojke nwojke](https://github.com/nwojke/deep_sort)
-#### Github:deep_sort_yolov3@[Qidian213 ](https://github.com/Qidian213/deep_sort_yolov3)
 
 
 
